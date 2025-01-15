@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
