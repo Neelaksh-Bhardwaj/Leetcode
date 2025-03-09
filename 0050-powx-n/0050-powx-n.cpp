@@ -1,26 +1,23 @@
 class Solution {
 public:
-    double myPow(double x, long n) {
-        double ans=1;
-        if(n == 0) return 1.0;
-
-        if(n < 0){
-            x = 1/x;
-            n = - n;
+    double myPow(double x, int n) {
+        long bin = n ;
+        if (bin<0){
+            x=1/x;
+            bin= -bin;
         }
+        double ans =1;
 
+        while(bin >0){
+            if (bin % 2 ==1){
+                ans *= x; 
 
-        while(n> 0){
-            if (n%2==1){
-                ans *= x;
             }
-            x*=x;
-            n /=2;
+            x *= x;
+            bin /= 2;
+
         }
+        return ans;        
 
-        return ans;
-
-        
-        
     }
 };
