@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
