@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +66,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
