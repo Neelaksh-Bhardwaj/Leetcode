@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0169-majority-element) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0169-majority-element) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
