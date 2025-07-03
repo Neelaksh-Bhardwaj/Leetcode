@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
