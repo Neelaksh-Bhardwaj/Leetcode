@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0050-powx-n) |
+| [1642-water-bottles](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
