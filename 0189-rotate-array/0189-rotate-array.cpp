@@ -1,14 +1,42 @@
+// first reverse the whole array 
+// then split the whole arr at k and then reverse both diffrently
+
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        k = k % n; 
+        int l = 0;
+        int r = n-1;
+        k = k%n;
 
-        vector<int> res(n);
-        for (int i = 0; i < n; i++) {
-            res[(i + k) % n] = nums[i];
+        while (l < r) {
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
+        }
+        
+        l = 0;
+        r = k-1;
+        while (l < r) {
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
         }
 
-        nums = res; 
+        l = k;
+        r = n -1;
+
+        while (l < r) {
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
+        }
+
+
+    
+
     }
+
+    
 };
+
