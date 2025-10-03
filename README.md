@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Neelaksh-Bhardwaj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
